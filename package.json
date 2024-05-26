@@ -1,0 +1,33 @@
+{
+  "name": "enigma",
+  "version": "1.0.0",
+  "description": "serverside thingz",
+  "main": "apps.js",
+  "scripts": {
+    "test": "poop"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yxild/ssAPI.git"
+  },
+  "keywords": [
+    "fart",
+    "poop",
+    "joebama",
+    "popbob"
+  ],
+  "author": "inferious",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yxild/ssAPI/issues"
+  },
+  "homepage": "https://github.com/Yxild/ssAPI#readme",
+  "dependencies": {
+    "axios": "^1.6.8",
+    "express": "^4.19.1",
+    "helmet": "^7.1.0",
+    "https": "^1.0.0",
+    "noblox": "^4.8.5",
+    "noblox.js": "^4.15.1"
+  }
+}
